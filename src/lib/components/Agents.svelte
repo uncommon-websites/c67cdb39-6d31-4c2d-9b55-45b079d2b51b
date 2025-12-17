@@ -10,7 +10,7 @@
 			<img 
 				src="/generated/image-senior-financial-professionals-in-busine-1766012717408-2.webp" 
 				alt="Financial professionals discussing investment strategies"
-				class="h-full w-full object-cover min-h-[500px]"
+				class="h-full w-full object-cover min-h-[500px] grayscale hover:grayscale-0 transition-all duration-500"
 			/>
 		</div>
 

@@ -72,12 +72,12 @@
 				</div>
 
 				<!-- Card 3 -->
-				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
+				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg group">
 					<div class="h-24 w-32 shrink-0 rounded overflow-hidden">
 						<img 
 							src="/generated/image-portfolio-analysis-documents-with-invest-1766013017374-3.webp" 
 							alt="Portfolio analysis documents"
-							class="h-full w-full object-cover"
+							class="h-full w-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
 						/>
 					</div>
 					<div>

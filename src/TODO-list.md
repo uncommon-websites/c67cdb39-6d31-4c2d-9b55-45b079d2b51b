@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-12-17T23:11:13.134Z -->
+<!-- Updated: 2025-12-17T23:13:38.170Z -->
 
 # Current Todo List State
 
@@ -17,3 +17,8 @@
 - [x] Update company name from 'Cal Uncommon' to 'Calamos' in Stories component
 - [x] Replace code UI mockups with appropriate investment-focused images in Updates component
 - [x] Run comprehensive error check and fix all issues
+- [x] Update Agents.svelte - add grayscale and hover effect to main image
+- [x] Update Features.svelte - add grayscale and hover effect to both feature images
+- [x] Update Stories.svelte - add grayscale and hover effect to story card images
+- [x] Update Updates.svelte - add grayscale and hover effect to thumbnail images
+- [x] Verify all images have smooth transitions and consistent behavior

@@ -59,7 +59,7 @@
 				<img 
 					src="/generated/image-confident-investment-team-analyzing-mark-1766012710436-1.webp" 
 					alt="Investment team analyzing market data"
-					class="h-full w-full object-cover"
+					class="h-full w-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
 				/>
 			</div>
 
