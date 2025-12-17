@@ -26,7 +26,7 @@
 				<img 
 					src="/generated/image-professional-financial-advisors-reviewin-1766012697941-0.webp" 
 					alt="Professional financial advisors reviewing investment portfolios"
-					class="h-full w-full object-cover"
+					class="h-full w-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
 				/>
 			</div>
 
