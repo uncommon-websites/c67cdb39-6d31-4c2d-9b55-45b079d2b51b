@@ -3,7 +3,7 @@
 		<div class="mb-12 flex items-end justify-between">
 			<div>
 				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[04] Advisor Success</div>
-				<h2 class="text-4xl font-medium tracking-tight text-gray-900">How RIAs build better portfolios with Cal Uncommon</h2>
+				<h2 class="text-4xl font-medium tracking-tight text-gray-900">How RIAs build better portfolios with Calamos</h2>
 			</div>
 			<div class="flex gap-2">
 				<button class="flex h-10 w-10 items-center justify-center border border-gray-200 bg-white hover:bg-gray-50">

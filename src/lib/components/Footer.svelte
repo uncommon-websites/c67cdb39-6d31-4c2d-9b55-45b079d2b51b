@@ -95,7 +95,7 @@
 	<!-- Big Watermark -->
 	<div class="pointer-events-none absolute bottom-0 left-0 right-0 flex justify-center overflow-hidden opacity-5">
 		<div class="text-[20vw] font-bold leading-none tracking-tighter text-white select-none translate-y-[20%]">
-			CAL UNCOMMON
+			CALAMOS
 		</div>
 	</div>
 </footer>

@@ -9,7 +9,7 @@
 			<!-- Logo and Left Links -->
 			<div class="flex items-center gap-12">
 				<a href="/" class="text-xl font-bold tracking-tight text-gray-900">
-					Cal Uncommon
+					Calamos
 				</a>
 				
 				<div class="hidden items-center gap-8 md:flex">

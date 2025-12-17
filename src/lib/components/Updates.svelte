@@ -41,14 +41,12 @@
 			<div class="flex flex-col gap-8">
 				<!-- Card 1 -->
 				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
-					<div class="h-24 w-32 shrink-0 bg-gray-100 rounded border border-gray-200 p-2 overflow-hidden">
-						<div class="bg-white h-full w-full shadow-sm p-1">
-							<div class="h-2 w-1/2 bg-gray-200 mb-1"></div>
-							<div class="grid grid-cols-2 gap-1">
-								<div class="h-4 bg-gray-100 rounded"></div>
-								<div class="h-4 bg-gray-100 rounded"></div>
-							</div>
-						</div>
+					<div class="h-24 w-32 shrink-0 rounded overflow-hidden">
+						<img 
+							src="/generated/image-investment-research-white-paper-with-dat-1766013009580-1.webp" 
+							alt="Investment research white paper"
+							class="h-full w-full object-cover"
+						/>
 					</div>
 					<div>
 						<div class="mb-1 text-[10px] font-bold tracking-widest text-gray-500 uppercase">White Paper</div>
@@ -59,9 +57,12 @@
 
 				<!-- Card 2 -->
 				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
-					<div class="h-24 w-32 shrink-0 bg-[#1a1a1a] flex flex-col items-center justify-center text-white p-2 text-center">
-						<div class="text-xs font-bold mb-1">Cal Uncommon</div>
-						<div class="text-sm font-bold">Research</div>
+					<div class="h-24 w-32 shrink-0 rounded overflow-hidden">
+						<img 
+							src="/generated/image-professional-webinar-presentation-setup--1766013013689-2.webp" 
+							alt="Professional webinar presentation"
+							class="h-full w-full object-cover"
+						/>
 					</div>
 					<div>
 						<div class="mb-1 text-[10px] font-bold tracking-widest text-gray-500 uppercase">Webinar</div>
@@ -72,12 +73,12 @@
 
 				<!-- Card 3 -->
 				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
-					<div class="h-24 w-32 shrink-0 bg-gray-50 p-2 flex flex-wrap content-center gap-1 justify-center">
-						<div class="h-3 w-8 bg-gray-100 rounded"></div>
-						<div class="h-3 w-10 bg-gray-100 rounded"></div>
-						<div class="h-3 w-6 bg-gray-100 rounded"></div>
-						<div class="h-3 w-8 bg-gray-100 rounded"></div>
-						<div class="w-full text-[8px] text-center font-bold text-gray-500 mt-1">Portfolio Analysis</div>
+					<div class="h-24 w-32 shrink-0 rounded overflow-hidden">
+						<img 
+							src="/generated/image-portfolio-analysis-documents-with-invest-1766013017374-3.webp" 
+							alt="Portfolio analysis documents"
+							class="h-full w-full object-cover"
+						/>
 					</div>
 					<div>
 						<div class="mb-1 text-[10px] font-bold tracking-widest text-gray-500 uppercase">Research Report</div>

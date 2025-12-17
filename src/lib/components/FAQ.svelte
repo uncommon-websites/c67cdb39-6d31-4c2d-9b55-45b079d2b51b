@@ -14,11 +14,11 @@
 			answer: "Structured protection strategies provide defined outcomes with downside buffers (typically 10-15%) and capped upside participation. They use options overlays to create asymmetric return profiles, protecting against market declines while maintaining growth potential."
 		},
 		{
-			question: "Are Cal Uncommon products available on my platform?",
+			question: "Are Calamos products available on my platform?",
 			answer: "Yes, our products are available on all major platforms including Schwab, Fidelity, TD Ameritrade, Pershing, and through wirehouses like Morgan Stanley, Merrill Lynch, UBS, and Wells Fargo."
 		},
 		{
-			question: "What makes Cal Uncommon's convertible research different?",
+			question: "What makes Calamos's convertible research different?",
 			answer: "We have the largest dedicated convertible securities team in the industry with 40+ years of proprietary data. Our integrated capital structure analysis and quantitative screening combined with fundamental research provides unmatched depth."
 		},
 		{

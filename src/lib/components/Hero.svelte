@@ -32,7 +32,7 @@
 
 			<!-- Subhead -->
 			<p class="mx-auto mb-10 max-w-2xl text-lg leading-relaxed text-gray-600">
-				Cal Uncommon delivers <strong class="font-semibold text-gray-900">sophisticated alternative investments</strong> through proprietary convertible securities research and structured protection strategies designed for RIAs.
+				Calamos delivers <strong class="font-semibold text-gray-900">sophisticated alternative investments</strong> through proprietary convertible securities research and structured protection strategies designed for RIAs.
 			</p>
 
 			<!-- Buttons -->
