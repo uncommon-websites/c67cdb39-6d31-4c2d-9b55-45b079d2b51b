@@ -22,57 +22,12 @@
 		<!-- Feature 1: Convertible Securities Research -->
 		<div class="mb-32 grid grid-cols-1 gap-16 lg:grid-cols-2">
 			<!-- Visual -->
-			<div class="relative overflow-hidden rounded-lg bg-[#1a1a1a] p-8">
-				<!-- Mockup -->
-				<div class="rounded-lg bg-white shadow-xl">
-					<div class="border-b border-gray-100 p-4">
-						<div class="flex items-center gap-2 rounded bg-gray-100 px-3 py-1.5 text-xs text-gray-600 w-fit">
-							<span>Convertible Securities</span>
-							<span class="text-gray-400">•</span>
-							<span>40+ Years Data</span>
-						</div>
-					</div>
-					<div class="p-4">
-						<div class="mb-2 text-xs font-semibold text-gray-500">Portfolio Analysis</div>
-						<div class="space-y-2">
-							<!-- Row 1 -->
-							<div class="flex items-center justify-between rounded border border-gray-100 p-3">
-								<div class="flex items-center gap-3">
-									<div class="h-8 w-8 rounded bg-blue-100 flex items-center justify-center text-xs font-bold text-blue-600">CV</div>
-									<div>
-										<div class="text-xs font-bold text-gray-900">Convertible Strategy</div>
-										<div class="text-[10px] text-gray-500">Risk-Managed Growth</div>
-									</div>
-								</div>
-								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">+8.2%</div>
-							</div>
-							<!-- Row 2 -->
-							<div class="flex items-center justify-between rounded border border-gray-100 p-3">
-								<div class="flex items-center gap-3">
-									<div class="h-8 w-8 rounded bg-gray-100 flex items-center justify-center text-xs font-bold text-gray-600">SP</div>
-									<div>
-										<div class="text-xs font-bold text-gray-900">Structured Protection</div>
-										<div class="text-[10px] text-gray-500">Downside Buffer</div>
-									</div>
-								</div>
-								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">+5.4%</div>
-							</div>
-							<!-- Row 3 -->
-							<div class="flex items-center justify-between rounded border border-gray-100 p-3 opacity-50">
-								<div class="flex items-center gap-3">
-									<div class="h-8 w-8 rounded bg-purple-100 flex items-center justify-center text-xs font-bold text-purple-600">AL</div>
-									<div>
-										<div class="text-xs font-bold text-gray-900">Alternative Liquid</div>
-										<div class="text-[10px] text-gray-500">Multi-Strategy</div>
-									</div>
-								</div>
-								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">+6.8%</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- Background Pattern -->
-				<div class="absolute inset-0 z-[-1]" style="background-image: radial-gradient(circle at 2px 2px, rgba(255,255,255,0.15) 1px, transparent 0); background-size: 20px 20px;"></div>
+			<div class="relative overflow-hidden rounded-lg">
+				<img 
+					src="/generated/image-professional-financial-advisors-reviewin-1766012697941-0.webp" 
+					alt="Professional financial advisors reviewing investment portfolios"
+					class="h-full w-full object-cover"
+				/>
 			</div>
 
 			<!-- Content -->
@@ -100,42 +55,12 @@
 		<!-- Feature 2: Structured Protection -->
 		<div class="grid grid-cols-1 gap-16 lg:grid-cols-2">
 			<!-- Visual -->
-			<div class="relative overflow-hidden rounded-lg bg-[#2a2a2a] p-8">
-				<!-- Mockup -->
-				<div class="rounded-lg bg-white shadow-xl h-full flex flex-col">
-					<div class="border-b border-gray-100 p-4 flex items-center justify-between">
-						<div class="text-xs font-semibold text-gray-600">Market Protection Strategies</div>
-					</div>
-					<div class="p-4 flex-1">
-						<div class="mb-4 flex gap-2">
-							<button class="flex items-center gap-1 rounded bg-gray-900 px-3 py-1.5 text-xs font-medium text-white">
-								<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-								Downside Buffer
-							</button>
-							<div class="rounded bg-gray-100 px-3 py-1.5 text-xs text-gray-500">15% Protection</div>
-							<div class="rounded bg-gray-100 px-3 py-1.5 text-xs text-gray-500">Cap: 12%</div>
-						</div>
-						<div class="space-y-3">
-							<div class="flex items-center justify-between p-2 bg-gray-50 rounded">
-								<span class="text-xs text-gray-600">Market Exposure</span>
-								<span class="text-xs font-bold text-gray-900">S&P 500</span>
-							</div>
-							<div class="flex items-center justify-between p-2 bg-gray-50 rounded">
-								<span class="text-xs text-gray-600">Protection Level</span>
-								<span class="text-xs font-bold text-green-600">-15% Buffer</span>
-							</div>
-							<div class="flex items-center justify-between p-2 bg-gray-50 rounded">
-								<span class="text-xs text-gray-600">Upside Cap</span>
-								<span class="text-xs font-bold text-blue-600">12% Annual</span>
-							</div>
-						</div>
-					</div>
-					<div class="bg-gray-50 p-4 border-t border-gray-100">
-						<div class="text-[10px] text-gray-500 uppercase tracking-widest">Structured Protection ETF</div>
-					</div>
-				</div>
-				<!-- Background Pattern -->
-				<div class="absolute inset-0 z-[-1]" style="background-image: linear-gradient(45deg, rgba(255,255,255,0.1) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.1) 75%, transparent 75%, transparent); background-size: 40px 40px;"></div>
+			<div class="relative overflow-hidden rounded-lg">
+				<img 
+					src="/generated/image-confident-investment-team-analyzing-mark-1766012710436-1.webp" 
+					alt="Investment team analyzing market data"
+					class="h-full w-full object-cover"
+				/>
 			</div>
 
 			<!-- Content -->
@@ -158,7 +83,7 @@
 					Structured protection for volatile markets
 				</h3>
 				<p class="mb-8 text-lg leading-relaxed text-gray-600">
-					Cal Uncommon's <strong class="text-gray-900">structured protection strategies</strong> deliver defined outcome investing with downside buffers and capped upside participation. Built for advisors seeking alternatives to traditional equity exposure.
+					Calamos <strong class="text-gray-900">structured protection strategies</strong> deliver defined outcome investing with downside buffers and capped upside participation. Built for advisors seeking alternatives to traditional equity exposure.
 				</p>
 				<div class="flex items-center gap-4">
 					<a href="#" class="bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
