@@ -19,7 +19,7 @@
 			<!-- Story 1 -->
 			<div class="group cursor-pointer">
 				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="/generated/image-professional-financial-advisor-in-their--1766012320448-0.webp" alt="Financial Advisor Success Story" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+					<img src="/generated/image-professional-financial-advisor-in-their--1766012320448-0.webp" alt="Financial Advisor Success Story" class="h-full w-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 group-hover:scale-105" />
 					<div class="absolute top-4 left-4 flex items-center gap-2 text-white font-bold drop-shadow-md">
 						<div class="bg-white text-black px-2 py-1 text-xs font-bold">RIA</div>
 						WEALTH ADVISORY

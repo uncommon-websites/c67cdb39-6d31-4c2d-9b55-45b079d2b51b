@@ -40,12 +40,12 @@
 			<!-- Small Cards Column -->
 			<div class="flex flex-col gap-8">
 				<!-- Card 1 -->
-				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
+				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg group">
 					<div class="h-24 w-32 shrink-0 rounded overflow-hidden">
 						<img 
 							src="/generated/image-investment-research-white-paper-with-dat-1766013009580-1.webp" 
 							alt="Investment research white paper"
-							class="h-full w-full object-cover"
+							class="h-full w-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
 						/>
 					</div>
 					<div>
@@ -56,12 +56,12 @@
 				</div>
 
 				<!-- Card 2 -->
-				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
+				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg group">
 					<div class="h-24 w-32 shrink-0 rounded overflow-hidden">
 						<img 
 							src="/generated/image-professional-webinar-presentation-setup--1766013013689-2.webp" 
 							alt="Professional webinar presentation"
-							class="h-full w-full object-cover"
+							class="h-full w-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
 						/>
 					</div>
 					<div>
