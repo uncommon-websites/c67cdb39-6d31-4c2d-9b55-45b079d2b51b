@@ -2,8 +2,8 @@
 	<div class="mx-auto max-w-[1400px] px-6">
 		<div class="mb-12 flex items-end justify-between">
 			<div>
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[04] Customer Stories</div>
-				<h2 class="text-4xl font-medium tracking-tight text-gray-900">How top teams win with Juicebox</h2>
+				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[04] Advisor Success</div>
+				<h2 class="text-4xl font-medium tracking-tight text-gray-900">How RIAs build better portfolios with Cal Uncommon</h2>
 			</div>
 			<div class="flex gap-2">
 				<button class="flex h-10 w-10 items-center justify-center border border-gray-200 bg-white hover:bg-gray-50">
@@ -19,27 +19,27 @@
 			<!-- Story 1 -->
 			<div class="group cursor-pointer">
 				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80" alt="CoinTracker Team" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+					<img src="/generated/image-professional-financial-advisor-in-their--1766012320448-0.webp" alt="Financial Advisor Success Story" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
 					<div class="absolute top-4 left-4 flex items-center gap-2 text-white font-bold drop-shadow-md">
-						<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/></svg>
-						CoinTracker
+						<div class="bg-white text-black px-2 py-1 text-xs font-bold">RIA</div>
+						WEALTH ADVISORY
 					</div>
 				</div>
-				<h3 class="mb-2 text-xl font-medium text-gray-900">How CoinTracker Saves 30+ Hours on Sourcing with AI Agents</h3>
-				<p class="text-xs text-gray-500">Valentina Miner, Full-Cycle Recruiter @ CoinTracker</p>
+				<h3 class="mb-2 text-xl font-medium text-gray-900">How a $500M RIA Added Alternatives Without Complexity</h3>
+				<p class="text-xs text-gray-500">Sarah Mitchell, Managing Partner @ Cornerstone Wealth Advisors</p>
 			</div>
 
 			<!-- Story 2 -->
 			<div class="group cursor-pointer">
 				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80" alt="Monte Carlo Team" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+					<img src="/generated/image-confident-ria-financial-advisor-at-their-1766012326371-1.webp" alt="RIA Advisor Success" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
 					<div class="absolute top-4 left-4 flex items-center gap-2 text-white font-bold drop-shadow-md">
-						<div class="bg-white text-black p-1 text-xs font-bold">MC</div>
-						MONTE CARLO
+						<div class="bg-white text-black px-2 py-1 text-xs font-bold">RIA</div>
+						INVESTMENT MANAGEMENT
 					</div>
 				</div>
-				<h3 class="mb-2 text-xl font-medium text-gray-900">How Monte Carlo Filled 2 Senior Engineering Roles in 3 Weeks</h3>
-				<p class="text-xs text-gray-500">Brenda Tam, Global Head of Recruiting & HR</p>
+				<h3 class="mb-2 text-xl font-medium text-gray-900">Structured Protection Strategies Deliver Peace of Mind in Volatile Markets</h3>
+				<p class="text-xs text-gray-500">Michael Chen, CFA, Chief Investment Officer @ Horizon Financial Partners</p>
 			</div>
 		</div>
 	</div>

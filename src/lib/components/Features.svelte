@@ -2,72 +2,71 @@
 	<div class="mx-auto max-w-[1400px] px-6">
 		<!-- Section Header -->
 		<div class="mb-12">
-			<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[01] Features</div>
-			<h2 class="text-4xl font-medium tracking-tight text-gray-900">How it works: Humans + Agents</h2>
+			<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[01] Our Approach</div>
+			<h2 class="text-4xl font-medium tracking-tight text-gray-900">Sophisticated strategies, accessible solutions</h2>
 		</div>
 
 		<!-- Tabs -->
 		<div class="mb-16 flex border-b border-gray-200">
 			<button class="border-b-2 border-gray-900 px-6 py-4 text-[11px] font-bold tracking-widest text-gray-900 uppercase">
-				<span class="mr-2 text-gray-400">01</span> Search
+				<span class="mr-2 text-gray-400">01</span> Research
 			</button>
 			<button class="border-b-2 border-transparent px-6 py-4 text-[11px] font-bold tracking-widest text-gray-500 hover:text-gray-900 uppercase">
-				<span class="mr-2 text-gray-300">02</span> Insights
+				<span class="mr-2 text-gray-300">02</span> Protection
 			</button>
 			<button class="border-b-2 border-transparent px-6 py-4 text-[11px] font-bold tracking-widest text-gray-500 hover:text-gray-900 uppercase">
-				<span class="mr-2 text-gray-300">03</span> Engagement
+				<span class="mr-2 text-gray-300">03</span> Innovation
 			</button>
 		</div>
 
-		<!-- Feature 1: Search & CRM -->
+		<!-- Feature 1: Convertible Securities Research -->
 		<div class="mb-32 grid grid-cols-1 gap-16 lg:grid-cols-2">
 			<!-- Visual -->
-			<div class="relative overflow-hidden rounded-lg bg-[#5d2b7d] p-8">
+			<div class="relative overflow-hidden rounded-lg bg-[#1a1a1a] p-8">
 				<!-- Mockup -->
 				<div class="rounded-lg bg-white shadow-xl">
 					<div class="border-b border-gray-100 p-4">
 						<div class="flex items-center gap-2 rounded bg-gray-100 px-3 py-1.5 text-xs text-gray-600 w-fit">
-							<span>Software Engineer</span>
-							<span class="text-gray-400">in</span>
-							<span>San Francisco</span>
-							<span class="text-gray-400">(+5 more)</span>
+							<span>Convertible Securities</span>
+							<span class="text-gray-400">•</span>
+							<span>40+ Years Data</span>
 						</div>
 					</div>
 					<div class="p-4">
-						<div class="mb-2 text-xs font-semibold text-gray-500">Autopilot Results (428)</div>
+						<div class="mb-2 text-xs font-semibold text-gray-500">Portfolio Analysis</div>
 						<div class="space-y-2">
 							<!-- Row 1 -->
 							<div class="flex items-center justify-between rounded border border-gray-100 p-3">
 								<div class="flex items-center gap-3">
-									<div class="h-8 w-8 rounded-full bg-gray-200"></div>
+									<div class="h-8 w-8 rounded bg-blue-100 flex items-center justify-center text-xs font-bold text-blue-600">CV</div>
 									<div>
-										<div class="text-xs font-bold text-gray-900">Dean Wiegand</div>
-										<div class="text-[10px] text-gray-500">Senior Software Engineer</div>
+										<div class="text-xs font-bold text-gray-900">Convertible Strategy</div>
+										<div class="text-[10px] text-gray-500">Risk-Managed Growth</div>
 									</div>
 								</div>
-								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">100%</div>
+								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">+8.2%</div>
 							</div>
 							<!-- Row 2 -->
 							<div class="flex items-center justify-between rounded border border-gray-100 p-3">
 								<div class="flex items-center gap-3">
-									<div class="h-8 w-8 rounded-full bg-gray-200"></div>
+									<div class="h-8 w-8 rounded bg-gray-100 flex items-center justify-center text-xs font-bold text-gray-600">SP</div>
 									<div>
-										<div class="text-xs font-bold text-gray-900">Krystal Han</div>
-										<div class="text-[10px] text-gray-500">Software Engineer</div>
+										<div class="text-xs font-bold text-gray-900">Structured Protection</div>
+										<div class="text-[10px] text-gray-500">Downside Buffer</div>
 									</div>
 								</div>
-								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">100%</div>
+								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">+5.4%</div>
 							</div>
 							<!-- Row 3 -->
 							<div class="flex items-center justify-between rounded border border-gray-100 p-3 opacity-50">
 								<div class="flex items-center gap-3">
-									<div class="h-8 w-8 rounded-full bg-gray-200"></div>
+									<div class="h-8 w-8 rounded bg-purple-100 flex items-center justify-center text-xs font-bold text-purple-600">AL</div>
 									<div>
-										<div class="text-xs font-bold text-gray-900">Wade Walter</div>
-										<div class="text-[10px] text-gray-500">Software Engineer III</div>
+										<div class="text-xs font-bold text-gray-900">Alternative Liquid</div>
+										<div class="text-[10px] text-gray-500">Multi-Strategy</div>
 									</div>
 								</div>
-								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">98%</div>
+								<div class="text-[10px] font-medium text-green-600 bg-green-50 px-2 py-1 rounded">+6.8%</div>
 							</div>
 						</div>
 					</div>
@@ -78,53 +77,61 @@
 
 			<!-- Content -->
 			<div class="flex flex-col justify-center">
-				<div class="mb-6 inline-block rounded bg-purple-100 px-3 py-1 text-[10px] font-bold tracking-widest text-purple-700 uppercase w-fit">
-					Search & CRM
+				<div class="mb-6 inline-block rounded bg-gray-100 px-3 py-1 text-[10px] font-bold tracking-widest text-gray-700 uppercase w-fit">
+					Proprietary Research
 				</div>
 				<h3 class="mb-6 text-4xl font-medium tracking-tight text-gray-900">
-					Talent discovery across 800M+ global profiles
+					40+ years of convertible securities expertise
 				</h3>
 				<p class="mb-8 text-lg leading-relaxed text-gray-600">
-					Unlock scale with efficient <strong class="text-gray-900">AI talent sourcing</strong> across 30+ diverse data sources. Juicebox builds enriched candidate profiles using high-signal filters focused on impact and achievements.
+					Access institutional-grade <strong class="text-gray-900">convertible securities research</strong> with the largest dedicated team in the industry. Our proprietary database and analytics platform deliver deep insights across global markets.
 				</p>
 				<div class="flex items-center gap-4">
 					<a href="#" class="bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
-						Try AI Talent Search
+						Explore Research
 					</a>
 					<a href="#" class="border border-gray-200 bg-white px-6 py-3 text-[11px] font-bold tracking-widest text-gray-900 transition-colors hover:bg-gray-50 uppercase">
-						Book a Demo
+						Contact Us
 					</a>
 				</div>
 			</div>
 		</div>
 
-		<!-- Feature 2: Engagement -->
+		<!-- Feature 2: Structured Protection -->
 		<div class="grid grid-cols-1 gap-16 lg:grid-cols-2">
 			<!-- Visual -->
-			<div class="relative overflow-hidden rounded-lg bg-[#3b5c8d] p-8">
+			<div class="relative overflow-hidden rounded-lg bg-[#2a2a2a] p-8">
 				<!-- Mockup -->
 				<div class="rounded-lg bg-white shadow-xl h-full flex flex-col">
 					<div class="border-b border-gray-100 p-4 flex items-center justify-between">
-						<div class="text-xs font-semibold text-gray-600">Recipients (630)</div>
+						<div class="text-xs font-semibold text-gray-600">Market Protection Strategies</div>
 					</div>
 					<div class="p-4 flex-1">
 						<div class="mb-4 flex gap-2">
-							<button class="flex items-center gap-1 rounded bg-purple-600 px-3 py-1.5 text-xs font-medium text-white">
-								<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/></svg>
-								Smart AI Command
+							<button class="flex items-center gap-1 rounded bg-gray-900 px-3 py-1.5 text-xs font-medium text-white">
+								<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+								Downside Buffer
 							</button>
-							<div class="rounded bg-gray-100 px-3 py-1.5 text-xs text-gray-500">+ First Name</div>
-							<div class="rounded bg-gray-100 px-3 py-1.5 text-xs text-gray-500">+ Last Name</div>
+							<div class="rounded bg-gray-100 px-3 py-1.5 text-xs text-gray-500">15% Protection</div>
+							<div class="rounded bg-gray-100 px-3 py-1.5 text-xs text-gray-500">Cap: 12%</div>
 						</div>
-						<div class="space-y-2">
-							<div class="h-4 w-3/4 bg-gray-100 rounded"></div>
-							<div class="h-4 w-full bg-gray-100 rounded"></div>
-							<div class="h-4 w-5/6 bg-gray-100 rounded"></div>
-							<div class="h-4 w-1/2 bg-gray-100 rounded"></div>
+						<div class="space-y-3">
+							<div class="flex items-center justify-between p-2 bg-gray-50 rounded">
+								<span class="text-xs text-gray-600">Market Exposure</span>
+								<span class="text-xs font-bold text-gray-900">S&P 500</span>
+							</div>
+							<div class="flex items-center justify-between p-2 bg-gray-50 rounded">
+								<span class="text-xs text-gray-600">Protection Level</span>
+								<span class="text-xs font-bold text-green-600">-15% Buffer</span>
+							</div>
+							<div class="flex items-center justify-between p-2 bg-gray-50 rounded">
+								<span class="text-xs text-gray-600">Upside Cap</span>
+								<span class="text-xs font-bold text-blue-600">12% Annual</span>
+							</div>
 						</div>
 					</div>
 					<div class="bg-gray-50 p-4 border-t border-gray-100">
-						<div class="h-8 w-24 bg-blue-600 rounded"></div>
+						<div class="text-[10px] text-gray-500 uppercase tracking-widest">Structured Protection ETF</div>
 					</div>
 				</div>
 				<!-- Background Pattern -->
@@ -136,29 +143,29 @@
 				<!-- Extra Insight Box -->
 				<div class="mb-12 border-l-2 border-gray-200 pl-6">
 					<p class="text-sm leading-relaxed text-gray-600">
-						Access real-time talent market insights with <strong class="text-gray-900">AI-driven talent insights</strong>. Leverage data from Juicebox to help you adapt to market changes, and align with hiring managers with confidence.
+						Navigate market volatility with <strong class="text-gray-900">risk-managed strategies</strong> designed for uncertain environments. Our structured protection products provide downside buffers while maintaining upside participation.
 					</p>
 					<div class="mt-4 flex gap-4">
-						<a href="#" class="text-[10px] font-bold tracking-widest text-gray-900 uppercase border border-gray-900 px-4 py-2 hover:bg-gray-50">Try AI Talent Insights</a>
-						<a href="#" class="text-[10px] font-bold tracking-widest text-gray-500 uppercase border border-gray-200 px-4 py-2 hover:text-gray-900 hover:border-gray-900">Book a Demo</a>
+						<a href="#" class="text-[10px] font-bold tracking-widest text-gray-900 uppercase border border-gray-900 px-4 py-2 hover:bg-gray-50">View ETF Suite</a>
+						<a href="#" class="text-[10px] font-bold tracking-widest text-gray-500 uppercase border border-gray-200 px-4 py-2 hover:text-gray-900 hover:border-gray-900">Contact Us</a>
 					</div>
 				</div>
 
-				<div class="mb-6 inline-block rounded bg-blue-100 px-3 py-1 text-[10px] font-bold tracking-widest text-blue-700 uppercase w-fit">
-					Engagement
+				<div class="mb-6 inline-block rounded bg-gray-100 px-3 py-1 text-[10px] font-bold tracking-widest text-gray-700 uppercase w-fit">
+					Risk Management
 				</div>
 				<h3 class="mb-6 text-4xl font-medium tracking-tight text-gray-900">
-					Boost replies with automated, personalized outreach
+					Structured protection for volatile markets
 				</h3>
 				<p class="mb-8 text-lg leading-relaxed text-gray-600">
-					Juicebox is an <strong class="text-gray-900">AI recruiting platform</strong> that powers outbound talent sourcing with dynamic, multi-step sequences, delivering up to 3x more replies. Get tracking updates on opens, replies, engagement and more, with <strong class="text-gray-900">AI-powered sourcing</strong>.
+					Cal Uncommon's <strong class="text-gray-900">structured protection strategies</strong> deliver defined outcome investing with downside buffers and capped upside participation. Built for advisors seeking alternatives to traditional equity exposure.
 				</p>
 				<div class="flex items-center gap-4">
 					<a href="#" class="bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
-						Try AI Sequencing
+						Explore Strategies
 					</a>
 					<a href="#" class="border border-gray-200 bg-white px-6 py-3 text-[11px] font-bold tracking-widest text-gray-900 transition-colors hover:bg-gray-50 uppercase">
-						Book a Demo
+						Contact Us
 					</a>
 				</div>
 			</div>
